@@ -1,2 +1,2 @@
-# Exerc-cios-de-L-gica-e-Programa-o-em-C
+# Exercicios de Logica
 Exercícios de Lógica e Programação em C para estudos da faculdade
