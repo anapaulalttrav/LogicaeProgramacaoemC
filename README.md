@@ -3,7 +3,8 @@ Exercícios de Lógica e Programação em C para estudos da faculdade
 Enunciados
 Estruturas sequenciais
 Código base de Olá Mundo
-helloworld \n
+helloworld       
+
 Ordem alfabética dos nomes:
 Alfabeto
 Baseado no ano atual, qual ano do seu nascimento:
