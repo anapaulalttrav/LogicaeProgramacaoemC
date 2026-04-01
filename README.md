@@ -1,50 +1,41 @@
-# Exercicios de Logica
+# Exercicios de Lógica
 Exercícios de Lógica e Programação em C para estudos da faculdade
+***
 
-Enunciados
+* Enunciados
 
 Estruturas sequenciais
+***
 
-Código base de Olá Mundo:
+* Código base de Olá Mundo:
+   * helloworld       
 
-helloworld       
+* Ordem alfabética dos nomes:
+   * Alfabeto
 
-Ordem alfabética dos nomes:
+* Baseado no ano atual, qual ano do seu nascimento:
+   * Ano de nascimento
 
-Alfabeto
+* Número anterior e posterior:
+   * Anterior e Posterior
 
-Baseado no ano atual, qual ano do seu nascimento:
+* Média entre 3 notas com média simples:
+   * Aprovação (Média de Três Notas)
 
-Ano de nascimento
+* Conversão Celsius para Fahrenheint:
+   * Conversor de temperatura
 
-Número anterior e posterior:
+* Entre os números qual maior:
+   * Numero maior
 
-Anterior e Posterior
+* Numeros pares ou impares:
+   * Par ou Impar
 
-Média entre 3 notas com média simples:
+* Media de aluno com 2 notas:
+    * media aluno simples
 
-Aprovação (Média de Três Notas)
+* Soma básica:
+  * soma simples
 
-Conversão Celsius para Fahrenheint:
-
-Conversor de temperatura
-
-Entre os números qual maior:
-
-Numero maior
-
-Numeros pares ou impares:
-
-Par ou Impar
-
-Media de aluno com 2 notas:
-
-media aluno simples
-
-Soma básica:
-
-soma simples
-
-Área do círculo:
-
-Área de circulo
+* Área do círculo:
+   * Área de circulo
