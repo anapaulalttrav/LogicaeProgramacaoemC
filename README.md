@@ -3,6 +3,9 @@ Exercícios de Lógica e Programação em C para estudos da faculdade
 ***
 
 * Enunciados
+  Início | Intermediário
+  ---|---
+  hello world, alfabeto | par ou impar, salário
 
 Estruturas sequenciais
 ***
